@@ -6,6 +6,9 @@ SIM ?= icarus
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
 PROJECT_SOURCES = tt_um_paolaunisa_rsnn.v
+PROJECT_SOURCES += RecursiveSpikingNeuron.v
+PROJECT_SOURCES += LeakyIntegrateFireNeuron.v
+
 
 ifneq ($(GATES),yes)
 
