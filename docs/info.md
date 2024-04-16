@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Example for tinytapeout 6
 
 ## How to test
 
-Explain how to use your project
+Change the inputs and check the outputs
 
 ## External hardware
 
