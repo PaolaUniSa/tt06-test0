@@ -1,6 +1,6 @@
 `define default_netname none
 
-module tt_uu_paolaunisa_top0 (
+module tt_um_paolaunisa_top0 (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: Input path
