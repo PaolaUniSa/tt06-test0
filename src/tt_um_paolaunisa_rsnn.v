@@ -24,7 +24,7 @@ module tt_um_paolaunisa_rsnn (
   wire rst = ! rst_n;
   wire spike;
     // Instantiate the LeakyIntegrateFireNeuron
- RecursiveSpikingNeuron rsn(
+ RecursiveSpikingNeuron RecursiveSpikingNeuron(
         .clk(clk),
         .reset(rst),
         .external_input_current(ui_in),
