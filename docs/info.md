@@ -13,7 +13,7 @@ Example for tinytapeout 6
 
 ## How to test
 
-Change the inputs and check the outputs
+Change the inputs and check the outputs . In this way, you can check the design
 
 ## External hardware
 
