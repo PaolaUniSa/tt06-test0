@@ -8,6 +8,7 @@ module LeakyIntegrateFireNeuron(
     output reg spike                   // Spike output signal
     );
 
+    
     // Internal registers
     reg [7:0] voltage;                // Membrane voltage (8-bit fixed-point)
     reg [5:0] refractory_counter;     // Counter for refractory period (6 bits)
